@@ -12,6 +12,7 @@ import IconKiloan from './kiloan.svg';
 import IconSatuan from './satuan.svg';
 import IconSetrika from './setrika.svg';
 import IconVIP from './vip.svg';
+import IconPesananAktif from './pesananAktif.svg';
 
 export { 
     IconAkun, 
@@ -27,5 +28,6 @@ export {
     IconKiloan,
     IconSatuan,
     IconSetrika,
-    IconVIP
+    IconVIP,
+    IconPesananAktif
 };
