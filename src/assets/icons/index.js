@@ -6,6 +6,12 @@ import IconPesanan from './pesanan.svg';
 import IconPesananActive from './pesananActive.svg';
 import IconAddSaldo from './addSaldo.svg';
 import IconGetPoint from './getPoint.svg';
+import IconEkspress from './ekspress.svg';
+import IconKarpet from './karpet.svg';
+import IconKiloan from './kiloan.svg';
+import IconSatuan from './satuan.svg';
+import IconSetrika from './setrika.svg';
+import IconVIP from './vip.svg';
 
 export { 
     IconAkun, 
@@ -15,5 +21,11 @@ export {
     IconPesanan, 
     IconPesananActive,
     IconAddSaldo,
-    IconGetPoint
+    IconGetPoint,
+    IconEkspress,
+    IconKarpet,
+    IconKiloan,
+    IconSatuan,
+    IconSetrika,
+    IconVIP
 };
