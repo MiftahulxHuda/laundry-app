@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { StyleSheet, Text, View, ImageBackground, Image } from 'react-native'
-import { SplashBackground, logo } from '../../assets';
+import { SplashBackground, Logo } from '../../assets';
 
 const Splash = ({ navigation }) => {
     useEffect(() => {
@@ -11,7 +11,7 @@ const Splash = ({ navigation }) => {
     
     return (
         <ImageBackground source={SplashBackground} style={styles.background}>
-            <Image source={logo} style={styles.logo} />
+            <Image source={Logo} style={styles.logo} />
         </ImageBackground>
     )
 }
